@@ -1,0 +1,174 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaixaEletronico",
+            "request": "launch",
+            "mainClass": "CaixaEletronico",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnquantoWhile",
+            "request": "launch",
+            "mainClass": "condicionais.estruturasderepeticao.EnquantoWhile",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForEach_In_Array",
+            "request": "launch",
+            "mainClass": "condicionais.estruturasderepeticao.ForEach_In_Array",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForInArrays",
+            "request": "launch",
+            "mainClass": "condicionais.estruturasderepeticao.ForInArrays",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch LacoFor",
+            "request": "launch",
+            "mainClass": "condicionais.estruturasderepeticao.LacoFor",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch LessonBreakContinue",
+            "request": "launch",
+            "mainClass": "condicionais.estruturasderepeticao.LessonBreakContinue",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch IF",
+            "request": "launch",
+            "mainClass": "condicionais.ifs.IF",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Igualdade",
+            "request": "launch",
+            "mainClass": "condicionais.ifs.Igualdade",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matematicos",
+            "request": "launch",
+            "mainClass": "condicionais.operadores.Matematicos",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Relacionais",
+            "request": "launch",
+            "mainClass": "condicionais.operadores.Relacionais",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "metodos.Usuario",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Logicos",
+            "request": "launch",
+            "mainClass": "operadores.Logicos",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matematicos(1)",
+            "request": "launch",
+            "mainClass": "operadores.Matematicos",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Relacionais(1)",
+            "request": "launch",
+            "mainClass": "operadores.Relacionais",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ternario",
+            "request": "launch",
+            "mainClass": "operadores.Ternario",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Unario",
+            "request": "launch",
+            "mainClass": "operadores.Unario",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuilderDeString",
+            "request": "launch",
+            "mainClass": "string.BuilderDeString",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringFormat",
+            "request": "launch",
+            "mainClass": "string.StringFormat",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "string.Strings",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Argumentos",
+            "request": "launch",
+            "mainClass": "terminal.Argumentos",
+            "args": [
+                "Gustavo",
+                "Fernandes",
+                "27",
+                "1.65"
+            ],
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "terminal.MinhaClasse",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Types",
+            "request": "launch",
+            "mainClass": "types.Types",
+            "projectName": "Java-Lessons_52c49e44"
+        }
+    ]
+}
