@@ -18,6 +18,7 @@ public class ExampleSet {
         notasAlunos.add(5.4);
         notasAlunos.add(7.3);
         notasAlunos.add(4.0);
+        notasAlunos.add(3.8);
 
         System.out.println(notasAlunos);
 
