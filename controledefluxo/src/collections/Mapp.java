@@ -31,6 +31,45 @@ public class Mapp {
     // Retorna se existe ou não um campeão França (Boolean)
     System.out.println(campeoesMudialFifa.containsKey("França"));
 
+    // Remove o campeão França
+    campeoesMudialFifa.remove("França");
+
+    // Retorna se existe ou não um campeão França
+    System.out.println(campeoesMudialFifa.containsKey("França"));
+
+    // Retorna se existe ou não alguma seleção hexa campeã
+    System.out.println(campeoesMudialFifa.containsValue(6));
+
+    // Retorna o tamanho do mapa
+    System.out.println(campeoesMudialFifa.size());
+
+    System.out.println(campeoesMudialFifa);
+
+    // Navega nos registros do mapa
+    for(Map.Entry<String, Integer> entry : campeoesMudialFifa.entrySet()) {
+      System.out.println(entry.getKey() + " -- " + entry.getValue());
+    }
+
+    // Navega nos registros do mapa
+    for(String key : campeoesMudialFifa.keySet()){
+      System.out.println(key + " ==> " + campeoesMudialFifa.get(key));
+    }
+
+    System.out.println(campeoesMudialFifa);
+
+    // Verifica se o mapa contém a chave Estados Unidos
+    System.out.println(campeoesMudialFifa.containsKey("Estados Unidos"));
+
+    // Verifica se o mapa contem o valor 5
+    System.out.println(campeoesMudialFifa.containsValue(1));
+
+    // Verifica o tamanho antes e depois de limpar o mapa
+    System.out.println(campeoesMudialFifa.size());
+
+    campeoesMudialFifa.clear();
+
+    System.out.println(campeoesMudialFifa.size());
+
   }
 
 }
