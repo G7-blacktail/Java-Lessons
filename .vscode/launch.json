@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExampleSet",
+            "request": "launch",
+            "mainClass": "collections.ExampleSet",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
             "name": "Launch Mapp",
             "request": "launch",
             "mainClass": "collections.Mapp",
