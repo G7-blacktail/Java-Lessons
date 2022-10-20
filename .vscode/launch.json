@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Mapp",
+            "request": "launch",
+            "mainClass": "collections.Mapp",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mapp",
+            "request": "launch",
+            "mainClass": "Collections.Mapp",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuadradosPerfeitos",
+            "request": "launch",
+            "mainClass": "desafio.QuadradosPerfeitos",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidandoParenteses",
+            "request": "launch",
+            "mainClass": "desafio.ValidandoParenteses",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

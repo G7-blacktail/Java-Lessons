@@ -1,5 +1,3 @@
-package desafio;
-
 import java.util.Scanner;
 
 public class FizzBuzz {

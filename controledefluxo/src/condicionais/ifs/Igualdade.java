@@ -4,9 +4,9 @@ public class Igualdade {
     
     public static void main(String[] args) {
         
-        final var numero = 11;
+    /*    final var numero = 11;
 
-            if(numero == 10){
+             if(numero == 10){
                 System.out.println("O número é 10");
             }else {
                 System.out.println("O número não é 10");
@@ -31,6 +31,6 @@ public class Igualdade {
             }else {
                 System.out.println("É a letra A");
             }
-
+*/
     }
 }

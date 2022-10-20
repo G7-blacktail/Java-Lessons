@@ -1,4 +1,3 @@
-package desafio;
 
 import java.util.Scanner;
 
@@ -15,5 +14,4 @@ public class CheckPalindromos {
 
         entrada.close();
     }
-
 }
