@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExampleOpitiomStates",
+            "request": "launch",
+            "mainClass": "collections.option.ExampleOpitiomStates",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorsExampleList",
+            "request": "launch",
+            "mainClass": "collections.comparatorcomparable.ComparatorsExampleList",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "string.Strings",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuilderDeString",
+            "request": "launch",
+            "mainClass": "string.BuilderDeString",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
             "name": "Launch ExampleSet",
             "request": "launch",
             "mainClass": "collections.ExampleSet",
