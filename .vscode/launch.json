@@ -6,6 +6,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch ExemploOptinal",
             "request": "launch",
             "mainClass": "collections.Options.ExemploOptinal",
@@ -24,6 +25,33 @@
             "request": "launch",
             "mainClass": "collections.Options.ExemploOptionalEstados",
             "projectName": "Java-Lessons_52c49e44"
+=======
+            "name": "Launch ExampleOpitiomStates",
+            "request": "launch",
+            "mainClass": "collections.option.ExampleOpitiomStates",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorsExampleList",
+            "request": "launch",
+            "mainClass": "collections.comparatorcomparable.ComparatorsExampleList",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "string.Strings",
+            "projectName": "Java-Lessons_b925b405"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuilderDeString",
+            "request": "launch",
+            "mainClass": "string.BuilderDeString",
+            "projectName": "Java-Lessons_b925b405"
+>>>>>>> 275b3480c0422aefa7f2ae6656f154088f4fed23
         },
         {
             "type": "java",

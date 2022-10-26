@@ -3,16 +3,16 @@ package string;
 public class Strings {
     public static void main(String[] args){
 
-        var nome = "André";
-        var sobreNome = "Gomes";
-        final var nomeCompleto = nome + " " + sobreNome;
+        String nome = "André";
+        String sobreNome = "Gomes";
+        final String nomeCompleto = nome + " " + sobreNome;
 
         System.out.println(nome);
         System.out.println(sobreNome);
         System.out.println(nomeCompleto);
         System.out.println("Seja muito bem vindo " + nomeCompleto);
 
-        var string = new String(" Minha String ");
+        String string = new String(" Minha String ");
 
         System.out.println(" Char na posição : " + string.charAt(5));
         System.out.println(" Quantidade : " + string.length());

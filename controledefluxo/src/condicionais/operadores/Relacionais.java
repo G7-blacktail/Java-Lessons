@@ -4,7 +4,7 @@ public class Relacionais {
     
     public static void main(String[] args) {
         
-        final var numero = 4;
+        final int numero = 4;
         int numero2 = 50;
         double numero3 = 3.5;
         float sameNumber = numero;
