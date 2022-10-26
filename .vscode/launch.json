@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExemploOptinal",
+            "request": "launch",
+            "mainClass": "collections.Options.ExemploOptinal",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOptinalPrimitivos",
+            "request": "launch",
+            "mainClass": "collections.Options.ExemploOptinalPrimitivos",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOptionalEstados",
+            "request": "launch",
+            "mainClass": "collections.Options.ExemploOptionalEstados",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
             "name": "Launch ExampleSet",
             "request": "launch",
             "mainClass": "collections.ExampleSet",
