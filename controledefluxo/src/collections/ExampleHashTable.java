@@ -1,10 +1,7 @@
 package collections;
 
 import java.util.Hashtable;
-<<<<<<< HEAD
 // import java.util.Iterator;
-=======
->>>>>>> 275b3480c0422aefa7f2ae6656f154088f4fed23
 import java.util.Map;
 
 public class ExampleHashTable {
