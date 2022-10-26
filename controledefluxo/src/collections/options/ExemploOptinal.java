@@ -3,7 +3,7 @@ package collections.options;
 import java.util.Optional;
 
 public class ExemploOptinal {
-    
+    //paradigma imperativo
     public static void main(String[] args) {
         
         Optional<String> optionalString = Optional.of("Valor opcional");
