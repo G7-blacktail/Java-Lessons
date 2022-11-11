@@ -9,11 +9,11 @@ public class ExemploOptinal {
         Optional<String> optionalString = Optional.of("Valor opcional");
 
         System.out.println(optionalString.isPresent());
-        System.out.println(optionalString.isEmpty());
+      //  System.out.println(optionalString.isEmpty());
 
         optionalString.ifPresent(System.out::println);
 
-        optionalString.ifPresentOrElse(System.out::println, () -> System.out.println("Valor não está presente"));
+       // optionalString.ifPresentOrElse(System.out::println, () -> System.out.println("Valor não está presente"));
 
       if(optionalString.isPresent()){
         String valor = optionalString.get();
