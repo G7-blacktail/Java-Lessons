@@ -1,4 +1,4 @@
-package escopo;
+
 
 public class Conta{
     

@@ -11,6 +11,7 @@ public class ExampleOpitiomStates {
         Optional<String> optionalString = Optional.of("Valor presente");
 
         System.out.println("Valor opcinal que está presente");
-        optionalString.ifPresent(System.out::println, () -> System.out.prinln("Não está presente"));
+        System.out.println(optionalString);
+    //    optionalString.ifPresentOrElse(System.out::println, () -> System.out.prinln("Não está presente"));
     }
 }
