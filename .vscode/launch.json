@@ -6,6 +6,26 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
+            "name": "Launch ExemploOptinal",
+            "request": "launch",
+            "mainClass": "collections.Options.ExemploOptinal",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOptinalPrimitivos",
+            "request": "launch",
+            "mainClass": "collections.Options.ExemploOptinalPrimitivos",
+            "projectName": "Java-Lessons_52c49e44"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOptionalEstados",
+            "request": "launch",
+            "mainClass": "collections.Options.ExemploOptionalEstados",
+            "projectName": "Java-Lessons_52c49e44"
+=======
             "name": "Launch ExampleOpitiomStates",
             "request": "launch",
             "mainClass": "collections.option.ExampleOpitiomStates",
@@ -31,6 +51,7 @@
             "request": "launch",
             "mainClass": "string.BuilderDeString",
             "projectName": "Java-Lessons_b925b405"
+>>>>>>> 275b3480c0422aefa7f2ae6656f154088f4fed23
         },
         {
             "type": "java",
